@@ -24,6 +24,9 @@
     <i style="font-size: 70px " class="devicon-git-plain-wordmark"></i>
     <span style="margin:5px"> 
     <!-- <img aling="center" alt="" src="" height="70px"/>    -->
+        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+          
 </div>
 
 ## Portfólio
