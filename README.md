@@ -1,13 +1,13 @@
 ## Olá! Eu sou Jael Batista 👋
 
-### Aspirante a Engenharia de dados
+### Aspirante a Engenharia de Dados
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JaelBS&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JaelBS/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JaelBS&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/JaelBS/github-readme-stats#gh-light-mode-only)
 
 ## Linguagens e Ferramentas
 
-<div> 
+<div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="60px" />
     <span style="margin:5px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="65px" />
